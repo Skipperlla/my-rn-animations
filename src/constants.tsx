@@ -1,5 +1,5 @@
-import { SimpleAnimationScreen } from "./components/SimpleAnimation/screen";
+import { ImageShatter } from "./components";
 
 export const ComponentScreenList = {
-  SimpleAnimation: SimpleAnimationScreen,
+  ImageShatter,
 };

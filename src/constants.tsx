@@ -1,5 +1,5 @@
-import { SimpleAnimationScreen } from "./components/SimpleAnimation/screen";
+import { PuzzleGame } from "./components";
 
 export const ComponentScreenList = {
-  SimpleAnimation: SimpleAnimationScreen,
+  "Puzzle Game": PuzzleGame,
 };

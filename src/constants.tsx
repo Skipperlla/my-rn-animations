@@ -1,5 +1,5 @@
-import { ImageShatter } from "./components";
+import { PuzzleGame } from "./components";
 
 export const ComponentScreenList = {
-  ImageShatter,
+  "Puzzle Game": PuzzleGame,
 };

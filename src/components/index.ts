@@ -1,1 +1,1 @@
-export { default as ImageShatter } from "./ImageShatter";
+export { default as PuzzleGame } from "./PuzzleGame";
